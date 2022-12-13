@@ -1,0 +1,11 @@
+Model Information:
+* title:	гонец
+* source:	https://sketchfab.com/3d-models/ec29c7d988394fc78a9e7981efe57dbd
+* author:	qwertiec (https://sketchfab.com/qwertiec)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "гонец" (https://sketchfab.com/3d-models/ec29c7d988394fc78a9e7981efe57dbd) by qwertiec (https://sketchfab.com/qwertiec) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
